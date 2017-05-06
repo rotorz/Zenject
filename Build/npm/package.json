@@ -1,0 +1,23 @@
+{
+  "name": "zenject",
+  "version": "5.2.0",
+  "description": "Dependency Injection Framework for Unity3D",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/modesttree/Zenject.git"
+  },
+  "keywords": [
+    "unity3d",
+    "unity3d-package"
+  ],
+  "author": "Modest Tree Media",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/modesttree/Zenject/issues"
+  },
+  "homepage": "https://github.com/modesttree/Zenject#readme"
+}
